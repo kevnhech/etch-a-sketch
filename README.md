@@ -1,1 +1,2 @@
 # etch-a-sketch
+This is a project where I will be making a sketchpad/etch-a-sketch function on the browser. By the end of this project I will be demonstrating that I have an excellent skill in DOM manipulation.
